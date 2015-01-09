@@ -1,27 +1,16 @@
-# 5374について
-For English please see [LOCALIZE_en.md](LOCALIZE_en.md).
-##「いつ、どのゴミが収集されているのか？」
+## 使い方
 
-ゴミの問題はどの地域でも深刻になりつつあります。
- [Code for Kanazawa](http://codeforkanazawa.org/)
-では、先ずは正しいゴミの捨て方に注目しました。例えばお引っ越しをされた場合、このアプリを使えばすぐに分かるように、目的と使い方をとてもシンプルにデザインしました。
+[5374 for YOUR_CITY](http://YOUR_CITY.domain/ )について説明します。
 
-## ブランチの運用について
+* **色でゴミのジャンルを表示**: 一番近いゴミの日とジャンルを上から順に表示しています。
 
-* **master**: ローカライズをする場合にはこのブランチをforkしてください (2014/5/7 updated v1.1)
-* **kanazawa**: 5374の金沢バージョン
-* **gh-pages**: 5374の金沢バージョンリリースブランチ
-* **dev**: 今後kanazawaへ適用予定の開発ブランチ
+* **捨てる事が可能なゴミ**: ゴミのジャンルをタップすると、捨てることが可能なゴミの一覧を見ることができます。
 
-## 使い方について
-
-[HOWTOUSE.md](HOWTOUSE.md)に5374標準の文章を用意してあるので、書き換えて使ってください。
-
-## ローカライズについて
-
-各地域へのローカライズについては[LOCALIZE.md](LOCALIZE.md)を参照するようにしてください。
+* **設定**: お住まいの地域を選択することで、ゴミ収集日が自動的に更新されます。今後スマートフォンのGPSから位置情報を取得する機能を追加する予定です。
 
 
+## 提供されるゴミ情報について
+YOUR_CITYが公開しているオープンデータをもとにしています。
 
 
 ## 開発チームとライセンスについて
@@ -32,3 +21,9 @@ For English please see [LOCALIZE_en.md](LOCALIZE_en.md).
 
 本アプリ及びソースコードの著作権はCode for Kanazawaに帰属します。
 但し、このソースコードは[MPL](http://www.mozilla.org/MPL/2.0/)のもと配布されています。MPLに従えば、どなたでも利用、改変、及び再配布が可能です。
+
+## Contributers in YOUR_CITY
+[YOUR_NAME](http://github.com/YOUR_NAME)
+
+## 松戸市版作成
+- 小野寺宣裕(Nobuhiro Onodera)
