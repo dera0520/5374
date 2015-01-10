@@ -10,7 +10,7 @@
 
 
 ## 提供されるゴミ情報について
-YOUR_CITYが公開しているオープンデータをもとにしています。
+松戸市が公開しているオープンデータをもとにしています。
 
 
 ## 開発チームとライセンスについて
@@ -23,7 +23,7 @@ YOUR_CITYが公開しているオープンデータをもとにしています�
 但し、このソースコードは[MPL](http://www.mozilla.org/MPL/2.0/)のもと配布されています。MPLに従えば、どなたでも利用、改変、及び再配布が可能です。
 
 ## Contributers in YOUR_CITY
-[YOUR_NAME](http://github.com/YOUR_NAME)
+- 小野寺宣裕(Nobuhiro Onodera)
 
 ## 松戸市版作成
-- 小野寺宣裕(Nobuhiro Onodera)
+
